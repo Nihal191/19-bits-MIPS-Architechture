@@ -1,0 +1,3 @@
+lw R0 R1 1
+lw R0 R2 2
+sll R1 R2 R3
